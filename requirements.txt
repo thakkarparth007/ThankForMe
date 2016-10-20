@@ -1,0 +1,2 @@
+facebook_sdk==1.0.0
+facebook==0.0
